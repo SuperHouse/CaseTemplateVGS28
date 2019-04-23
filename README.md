@@ -4,7 +4,7 @@ Copyright 2017 SuperHouse Pty Ltd www.superhouse.tv
 Designed by Jonathan Oxer
 
 Simple PCB project template to help you design boards that will fit
-horizontally into a "VGS28" size plastic project box.
+horizontally into a "VG-S28" size plastic project box.
 
 
 INSTALLATION
